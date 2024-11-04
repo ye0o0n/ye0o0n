@@ -1,10 +1,15 @@
-# Hi there 👋
+## Hi there 👋
 
-## ✨Skills✨
-### Platforms & Languages
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-<img src="http://www.w3.org/2000/svg?style=flat-square&logo=React&logoColor=white"/>
+<h2>✨Skills✨</h2>
+<h3>Platforms & Languages</h3>
+<div>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+
+  
+</div>
 <!--
 **ye0o0n/ye0o0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
