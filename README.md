@@ -1,6 +1,6 @@
-## Hi there 👋
+## Jaeyeon's GitHub
 
-<h2>✨Skills✨</h2>
+<h3>✨Skills✨</h3>
 <h3>Platforms & Languages</h3>
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
