@@ -17,10 +17,11 @@
 </div>
 <h3>Tools</h3>
 <div>
+  <img src="https://code.visualstudio.com/VSCODE-0098FF?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
   <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-C9C2BB?style=flat-square&logo=Notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-C9C2BB?style=flat-square&logo=Notion&logoColor=black"/>
   vscode, 
 </div>
 <!--
