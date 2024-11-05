@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-C9C2BB?style=flat-square&logo=Notion&logoColor=black"/>
-  vscode, 
 </div>
 <!--
 **ye0o0n/ye0o0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
